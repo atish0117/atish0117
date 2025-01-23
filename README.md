@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atish kumar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning B.Voc(SD)
+- 🌱 I have complate my Graduation, base on B.voc(SD)
 - 💞️ I’m looking to collaborate on any project related software
 - 📫 How to reach me atishr334@gmail.com
 
