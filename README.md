@@ -26,9 +26,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atishr334&show_icons=true&theme=radical" alt="atishr334 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atish0117&show_icons=true&theme=radical" alt="atish0117 GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishr334&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atish0117&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
