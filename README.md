@@ -12,7 +12,7 @@
 </p>
 
 ---
-<h1 align="center">Hey there! 👋 I'm Atish Kumar</h1>
+<!--- <h1 align="center">Hey there! 👋 I'm Atish Kumar</h1> --->
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
 
 <p align="center">
