@@ -68,7 +68,6 @@
 <h2 align="center">🧠 Currently Learning</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -77,6 +76,28 @@
 
 ---
 
+
+
+<h2 align="center">🚀 Featured Projects</h2>
+<table> 
+  <tr> 
+    <td align="center" width="50%"> 
+      <a href="https://github.com/yourusername/yourportfolio"> 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourportfolio&theme=radical" /> 
+        <br /> 
+        <strong>🌐 Portfolio Website</strong> 
+      </a> 
+    </td> 
+    <td align="center" width="50%"> 
+      <a href="https://github.com/atish0117/BlogSpace"> 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=atish0117&repo=BlogSpace&theme=radical" /> 
+        <br /> 
+        <strong>📝 Blog Platform</strong> 
+      </a> 
+    </td> 
+  </tr> 
+</table>
+
 <h2 align="center">🌐 Connect with Me:</h2>
 
 <p align="center">
@@ -84,6 +105,7 @@
   <a href="https://github.com/atish0117"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 
 ---
 > ⚡ *Let's build something amazing together!*
