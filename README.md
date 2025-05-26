@@ -82,7 +82,7 @@
 <table> 
   <tr> 
     <td align="center" width="50%"> 
-      <a href="https://github.com/atish0117/Portfolio"> 
+      <a href="https://github.com/atish0117/NewPortfolio
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=atish0117&repo=Portfolio&theme=radical" /> 
         <br /> 
         <strong>🌐 Portfolio Website</strong> 
